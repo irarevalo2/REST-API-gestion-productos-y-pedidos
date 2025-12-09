@@ -1,4 +1,4 @@
-# Flask-REST-API-gestion-productos-y-pedidos
+# REST-API-gestion-productos-y-pedidos
 
 API REST con FastAPI para gestión de productos y pedidos usando estructuras de datos en memoria.
 
